@@ -2,9 +2,10 @@
 
 Participants:
 
-- Leader: [Name - ID]
-- Member: [Name - ID]
-- Member: [Name - ID]
+- Leader: [Nguyễn Phan Hiếu Thuận - 20521994]
+- Member: [Quách Vinh Quang - 20521811]
+- Member: [Nguyễn Xuân Thịnh - 20521967]
+- Member: [Lê Văn Sỹ - 20521854]
 
 
 Task management table: [here](https://trello.com/b/N0dTGGkV) [Replace by your public board later]
